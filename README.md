@@ -4,6 +4,36 @@
 
 In September 2024 we [revealed](https://www.bbc.co.uk/news/articles/cn9lexplel5o) more than 180 council-run libraries have either closed or been handed over to volunteer groups in the UK since 2016.
 
+## Methodology
+
+Data on libraries that have closed, moved to a community organisation, or have fallen outside of a council’s statutory provision since 2016 were obtained through Arts Council England’s Basic library dataset for 2023. It is a comprehensive study of every known library in England, with details on its current and past operation.
+
+From this data, we wanted to work out how many libraries formed part of local council statutory provision in 2016 and how that had changed by 2023. Some new facilities were not yet open by the time of 2016; we have captured those as well. As our study concentrates on accessible, statutory public libraries, we also filtered out archive facilities and prison libraries.
+ 
+From this we have worked out a “net loss” of statutory libraries for each council since 2016 rather than simply detailing how many ‘closures’ there have been. 
+
+To explain and to put this in context, around 125 libraries have physically closed in England since 2016, while a further 100 have been handed over to various types of community organisation. However, there have been around 75 new libraries, or existing (but largely small) libraries adopted as part of the council’s statutory provision since 2016.  Balancing these figures gives us a net loss of around 150 in England.
+
+In order to gain details on the staffing losses, proposed closures and the number of sites to have reduced hours, we [made Freedom of Information requests](https://github.com/BBC-Data-Unit/libraries-2024/blob/main/foirequests/foirequest.md). to 221 councils responsible for library services across the UK. Around 80% of those gave a full response.
+
+We asked councils to provide details of their library service headcounts in 2016 and 2023 so we could compare the two figures. We also asked them to state how many libraries had reduced opening hours since 2016.
+
+In England we compared the locations of libraries to the government's Indices of Multiple Deprivation (IMD) - a system which ranks areas according to income, living conditions and other poverty measures, and measured the proportions of libraries closed in each decile, to see if closures were evenly distributed across areas regardless of deprivation. We found communities in the most deprived deciles were four times more likely to have lost a publicly-funded library since 2016.
+
+There were no equivalent Arts Council data for Scotland, Wales and Northern Ireland.  Therefore, we have relied on data returned from local authorities in the three devolved nations from FOI requests. The data for Scotland, Wales and Northern Ireland are less detailed but still contain details on the numbers of libraries lost, the numbers which have seen their opening hours reduced and the reductions in the numbers of libraries staff.
+
+
+
+
+## Get the data 
+
+* Arts Council England: [Basic Dataset for Libraries 2023](https://www.artscouncil.org.uk/media/22594/download?attachment) ([source](https://www.artscouncil.org.uk/supporting-arts-museums-and-libraries/supporting-libraries)) - [cached here](https://github.com/BBC-Data-Unit/libraries-2024/blob/main/data/Basic%20Dataset%20for%20Libraries%202023.xlsx)
+* Analysis: [how each council’s library provision has changed since 2016](https://github.com/BBC-Data-Unit/libraries-2024/blob/main/data/Libraries_to_share.xlsx)
+* Lookup data: [library authorities to regions](https://github.com/BBC-Data-Unit/libraries-2024/blob/main/data/LOOKUP%20library%20authorities%20to%20regions.xlsx)
+* English Indices of Deprivation 2019: [File 1: index of multiple deprivation](https://assets.publishing.service.gov.uk/media/5d8b3abded915d0373d3540f/File_1_-_IMD2019_Index_of_Multiple_Deprivation.xlsx) - [cached](https://github.com/BBC-Data-Unit/libraries-2024/blob/main/data/File_1_-_IMD2019_Index_of_Multiple_Deprivation.xlsx)
+* Analysis: [proportion of libraries closed in each deprivation index decile](https://github.com/BBC-Data-Unit/libraries-2024/blob/main/data/libraries_Deprivation_Analysis.xlsx)
+
+
 ## Partner and other usage
 
 BBC stations that had the story in their running orders across radio or TV included: Solent, Cumbria, Humberside, Norfolk, Newcastle, Somerset, Wales, Leeds, Wales, Sussex, Northampton, Yorkshire, Berkshire, Gloucestershire, Shropshire, Kent, Suffolk, Cornwall, WM, CWR, Lincolnshire, Sheffield, Essex, York, Scotland, Cambridgeshire, Jersey, Stoke, Norfolk, Leicester York, Tees, Kent, Nottingham, Bristol, Oxford, Devon, Guernsey, Three Counties Radio, Wiltshire, Ulster, Jersey, Midlands Today, Spotlight, South Today, Look North, Hereford & Worcester, Lancashire, Merseyside, and North West TV, some of which are linked below. BBC Newsbeat and BBC Asian Network ran clips in their bulletins with an outside broadcast from Stoke. BBC Radio 2, 3, 4, and 6 ran bulletin clips of Michael Rosen
