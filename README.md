@@ -36,7 +36,7 @@ There were no equivalent Arts Council data for Scotland, Wales and Northern Irel
 
 ## Partner and other usage
 
-BBC stations that had the story in their running orders across radio or TV included: Solent, Cumbria, Humberside, Norfolk, Newcastle, Somerset, Wales, Leeds, Wales, Sussex, Northampton, Yorkshire, Berkshire, Gloucestershire, Shropshire, Kent, Suffolk, Cornwall, WM, CWR, Lincolnshire, Sheffield, Essex, York, Scotland, Cambridgeshire, Jersey, Stoke, Norfolk, Leicester York, Tees, Kent, Nottingham, Bristol, Oxford, Devon, Guernsey, Three Counties Radio, Wiltshire, Ulster, Jersey, Midlands Today, Spotlight, South Today, Look North, Hereford & Worcester, Lancashire, Merseyside, and North West TV, some of which are linked below. BBC Newsbeat and BBC Asian Network ran clips in their bulletins with an outside broadcast from Stoke. BBC Radio 2, 3, 4, and 6 ran bulletin clips of Michael Rosen
+BBC stations that had the story in their running orders across radio or TV included: Solent, Cumbria, Humberside, Norfolk, Newcastle, Somerset, Wales, Leeds, Wales, Sussex, Northampton, Yorkshire, Berkshire, Gloucestershire, Shropshire, Kent, Suffolk, Cornwall, WM, CWR, Lincolnshire, Sheffield, Essex, York, Scotland, Cambridgeshire, Jersey, Stoke, Norfolk, Leicester York, Tees, Nottingham, Bristol, Oxford, Devon, Guernsey, Three Counties Radio, Wiltshire, Ulster, Jersey, Midlands Today, Spotlight, South Today, Look North, Hereford & Worcester, Lancashire, Merseyside, and North West TV, some of which are linked below. BBC Newsbeat and BBC Asian Network ran clips in their bulletins with an outside broadcast from Stoke. BBC Radio 2, 3, 4, and 6 ran bulletin clips of Michael Rosen
 
 ![](https://pbs.twimg.com/media/GWijM6MXQAEKMyM?format=jpg)
 
@@ -58,13 +58,17 @@ BBC stations that had the story in their running orders across radio or TV inclu
  * Alun Newman: [Library Cuts](https://www.bbc.co.uk/sounds/play/p0jjck6x)
 * BBC Radio York: [How important are North Yorkshire's libraries?](https://www.bbc.co.uk/sounds/play/p0jn7dhz); X: [1,000 libraries have closed or reduced their hours since 2016](https://x.com/BBCYork/status/1830651158852943962)
 * BBC South Yorkshire: [Libraries at 'heart of community' a decade after cuts](https://www.bbc.co.uk/news/articles/cm2n0zeg9kvo)
+* Doncaster Free Press: [Doncaster among few areas nationwide with more council-run libraries than 2016](https://www.doncasterfreepress.co.uk/news/politics/council/doncaster-among-few-areas-nationwide-with-more-council-run-libraries-than-2016-4768433)
 * The Guardian: [More than 180 UK public libraries closed or handed to volunteers since 2016, data shows](https://www.theguardian.com/books/article/2024/sep/03/more-than-180-uk-public-libraries-closed-or-handed-to-volunteers-since-2016)
   * [Jack Reacher would not exist without Birmingham’s libraries, says writer](https://www.theguardian.com/books/article/2024/sep/03/jack-reacher-writer-lee-child-childhood-birmingham-libraries)
   * [Share your experience of how libraries shaped your life](https://www.theguardian.com/books/article/2024/sep/03/share-your-experience-of-how-libraries-shaped-your-life#5916475)
 * GloucestershireLive: [Library closures mapped as Gloucestershire bucks the trend](https://www.gloucestershirelive.co.uk/news/cheltenham-news/library-closures-mapped-gloucestershire-bucks-9526615)
 * In Your Area: [More than 130 public libraries have closed since 2016 - check your area](https://www.inyourarea.co.uk/news/almost-150-public-libraries-have-closed-since-2016-check-your-area)
 * ITV News Anglia: [440 library staff jobs cut in East since 2016, figures show, amid warnings of 'funding crisis'](https://www.itv.com/news/anglia/2024-09-03/440-library-staff-jobs-cut-in-east-since-2016-figures-show)
+* KentLive: [The impact of the 'public library crisis' on Kent as UK-wide decimation continues](https://www.kentlive.news/news/kent-news/impact-public-library-crisis-kent-9526288)
 * LocalGov: [Public libraries in ‘crisis’ amid cuts](https://www.localgov.co.uk/Public-libraries-in-crisis-amid-cuts/61048)
+* MyLondon: [The 'horrifying' cuts to library services with almost 200 libraries closed since 2016](https://www.mylondon.news/news/uk-world-news/horrifying-cuts-library-services-almost-29853045)
+* SomersetLive: [Library closures mapped as Somerset sees mixed picture](https://www.somersetlive.co.uk/news/somerset-news/library-closures-mapped-somerset-sees-9526621)
 
 ## Related repos
 
