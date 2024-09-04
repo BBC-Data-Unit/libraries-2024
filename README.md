@@ -6,11 +6,14 @@ In September 2024 we [revealed](https://www.bbc.co.uk/news/articles/cn9lexplel5o
 
 ## Partner and other usage
 
+![](https://pbs.twimg.com/media/GWijM6MXQAEKMyM?format=jpg)
+
 * BBC Breakfast: [Author Michael Rosen spoke to #BBCBreakfast after BBC analysis found more than 180 council-run libraries have either closed or been handed over to volunteer groups in the UK since 2016](https://x.com/BBCBreakfast/status/1830872837529235758)
 * BBC Cornwall: [Cornwall's libraries 'bucking UK trend' - council](https://www.bbc.co.uk/news/articles/c4geylnvnvxo)
 * BBC Coventry & Warwickshire: [Closing libraries is short-sighted, volunteers say](https://www.bbc.co.uk/news/articles/cx2g1221d74o)
 * BBC England: [Author hits out at 'false economy' of library cuts](https://www.bbc.co.uk/news/articles/c207251795jo)
 * BBC Gloucestershire: [Today we're hearing about the county's libraries kept alive by volunteers](https://x.com/BBCGlos/status/1830836646184440298)
+* BBC Hampshire & Isle of Wight: [The lost libraries from across the South](https://x.com/BBCSouthNews/status/1830855770990170247)
 * BBC Liverpool: [Libraries important for human contact, Children's Laureate says](https://www.bbc.co.uk/news/articles/cm2ndndlq92o)
 * BBC London: [Library closures a decimation - ex-Children's Laureate](https://www.bbc.co.uk/news/articles/cx2n1502zx3o)
 * BBC Radio Cumbria: [The fate of Ulverston's library](https://www.bbc.co.uk/sounds/play/p0jn7s94)
