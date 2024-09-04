@@ -55,7 +55,7 @@ BBC stations that had the story in their running orders across radio or TV inclu
 * BBC Radio Leeds: [Yorkshire libraries closing is “devastating”](https://www.bbc.co.uk/sounds/play/p0jn8hlk)
 * BBC Radio Norfolk: [Why are Norfolk libraries bucking the trend?](https://www.bbc.co.uk/sounds/play/p0jn7w3c)
 * BBC Radio Solent: [Eleven Hampshire libraries saved by volunteers](https://bbc.co.uk/sounds/play/p0jn8bn2)
- * Alun Newman: [Library Cuts](https://www.bbc.co.uk/sounds/play/p0jjck6x)
+  * Alun Newman: [Library Cuts](https://www.bbc.co.uk/sounds/play/p0jjck6x)
 * BBC Radio York: [How important are North Yorkshire's libraries?](https://www.bbc.co.uk/sounds/play/p0jn7dhz); X: [1,000 libraries have closed or reduced their hours since 2016](https://x.com/BBCYork/status/1830651158852943962)
 * BBC South Yorkshire: [Libraries at 'heart of community' a decade after cuts](https://www.bbc.co.uk/news/articles/cm2n0zeg9kvo)
 * Doncaster Free Press: [Doncaster among few areas nationwide with more council-run libraries than 2016](https://www.doncasterfreepress.co.uk/news/politics/council/doncaster-among-few-areas-nationwide-with-more-council-run-libraries-than-2016-4768433)
