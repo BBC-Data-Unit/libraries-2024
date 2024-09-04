@@ -6,13 +6,15 @@ In September 2024 we [revealed](https://www.bbc.co.uk/news/articles/cn9lexplel5o
 
 ## Partner and other usage
 
+BBC stations that had the story in their running orders across radio or TV included: Solent, Cumbria, Humberside, Norfolk, Newcastle, Somerset, Wales, Leeds, Wales, Sussex, Northampton, Yorkshire, Berkshire, Gloucestershire, Shropshire, Kent, Suffolk, Cornwall, WM, CWR, Lincolnshire, Sheffield, Essex, York, Scotland, Cambridgeshire, Jersey, Stoke, Norfolk, Leicester York, Tees, Kent, Nottingham, Bristol, Oxford, Devon, Guernsey, Three Counties Radio, Wiltshire, Ulster, Jersey, Midlands Today, Spotlight, South Today, Look North, Hereford & Worcester, Lancashire, Merseyside, and North West TV, some of which are linked below. BBC Newsbeat and BBC Asian Network ran clips in their bulletins with an outside broadcast from Stoke. BBC Radio 2, 3, 4, and 6 ran bulletin clips of Michael Rosen
+
 ![](https://pbs.twimg.com/media/GWijM6MXQAEKMyM?format=jpg)
 
-* BBC Breakfast: [Author Michael Rosen spoke to #BBCBreakfast after BBC analysis found more than 180 council-run libraries have either closed or been handed over to volunteer groups in the UK since 2016](https://x.com/BBCBreakfast/status/1830872837529235758)
+* BBC 5 Live Breakfast covered the story in its bulletins, spoke to [author Michael Rosen on why libraries must be saved](https://www.bbc.co.uk/programmes/p0jn801k) and did a two-way with the Shared Data Unit's Paul Lynch, which was also used on 5 Live and Radios 2, 3, 6 Music and BBC Sounds
+* BBC Breakfast covered the story in a range of ways, including an outside broadcast, VT and [interview with Michael Rosen which was published on X](https://x.com/BBCBreakfast/status/1830872837529235758). A package from BBC Breakfast was also used by the BBC News Channel
 * BBC Cornwall: [Cornwall's libraries 'bucking UK trend' - council](https://www.bbc.co.uk/news/articles/c4geylnvnvxo)
 * BBC Coventry & Warwickshire: [Closing libraries is short-sighted, volunteers say](https://www.bbc.co.uk/news/articles/cx2g1221d74o)
 * BBC England: [Author hits out at 'false economy' of library cuts](https://www.bbc.co.uk/news/articles/c207251795jo)
-* BBC Five Live Breakfast: [Author Michael Rosen on why libraries must be saved](https://www.bbc.co.uk/programmes/p0jn801k)
 * BBC Gloucestershire: [Today we're hearing about the county's libraries kept alive by volunteers](https://x.com/BBCGlos/status/1830836646184440298)
 * BBC Hampshire & Isle of Wight: [The lost libraries from across the South](https://x.com/BBCSouthNews/status/1830855770990170247)
 * BBC Liverpool: [Libraries important for human contact, Children's Laureate says](https://www.bbc.co.uk/news/articles/cm2ndndlq92o)
@@ -29,7 +31,9 @@ In September 2024 we [revealed](https://www.bbc.co.uk/news/articles/cn9lexplel5o
 * The Guardian: [More than 180 UK public libraries closed or handed to volunteers since 2016, data shows](https://www.theguardian.com/books/article/2024/sep/03/more-than-180-uk-public-libraries-closed-or-handed-to-volunteers-since-2016)
   * [Jack Reacher would not exist without Birmingham’s libraries, says writer](https://www.theguardian.com/books/article/2024/sep/03/jack-reacher-writer-lee-child-childhood-birmingham-libraries)
   * [Share your experience of how libraries shaped your life](https://www.theguardian.com/books/article/2024/sep/03/share-your-experience-of-how-libraries-shaped-your-life#5916475)
+* GloucestershireLive: [Library closures mapped as Gloucestershire bucks the trend](https://www.gloucestershirelive.co.uk/news/cheltenham-news/library-closures-mapped-gloucestershire-bucks-9526615)
 * In Your Area: [More than 130 public libraries have closed since 2016 - check your area](https://www.inyourarea.co.uk/news/almost-150-public-libraries-have-closed-since-2016-check-your-area)
+* ITV News Anglia: [440 library staff jobs cut in East since 2016, figures show, amid warnings of 'funding crisis'](https://www.itv.com/news/anglia/2024-09-03/440-library-staff-jobs-cut-in-east-since-2016-figures-show)
 * LocalGov: [Public libraries in ‘crisis’ amid cuts](https://www.localgov.co.uk/Public-libraries-in-crisis-amid-cuts/61048)
 
 ## Related repos
