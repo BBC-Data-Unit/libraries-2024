@@ -42,10 +42,11 @@ BBC stations that had the story in their running orders across radio or TV inclu
 
 * BBC 5 Live Breakfast covered the story in its bulletins, spoke to [author Michael Rosen on why libraries must be saved](https://www.bbc.co.uk/programmes/p0jn801k) and did a two-way with the Shared Data Unit's Paul Lynch, which was also used on 5 Live and Radios 2, 3, 6 Music and BBC Sounds
 * BBC Breakfast covered the story in a range of ways, including an outside broadcast, VT and [interview with Michael Rosen which was published on X](https://x.com/BBCBreakfast/status/1830872837529235758). A package from BBC Breakfast was also used by the BBC News Channel
+* BBC Birmingham: [Books changed my life, says former homeless man](https://www.bbc.co.uk/news/articles/c628180g3kxo)
 * BBC Cornwall: [Cornwall's libraries 'bucking UK trend' - council](https://www.bbc.co.uk/news/articles/c4geylnvnvxo)
 * BBC Coventry & Warwickshire: [Closing libraries is short-sighted, volunteers say](https://www.bbc.co.uk/news/articles/cx2g1221d74o)
 * BBC England: [Author hits out at 'false economy' of library cuts](https://www.bbc.co.uk/news/articles/c207251795jo)
-* BBC Gloucestershire: [Today we're hearing about the county's libraries kept alive by volunteers](https://x.com/BBCGlos/status/1830836646184440298)
+* BBC Gloucestershire: [Libraries stay open thanks to army of volunteers](https://www.bbc.co.uk/news/articles/c5ykz343d3jo); X: [Today we're hearing about the county's libraries kept alive by volunteers](https://x.com/BBCGlos/status/1830836646184440298)
 * BBC Hampshire & Isle of Wight: [The lost libraries from across the South](https://x.com/BBCSouthNews/status/1830855770990170247)
 * BBC Liverpool: [Libraries important for human contact, Children's Laureate says](https://www.bbc.co.uk/news/articles/cm2ndndlq92o)
 * BBC London: [Library closures a decimation - ex-Children's Laureate](https://www.bbc.co.uk/news/articles/cx2n1502zx3o)
@@ -54,6 +55,7 @@ BBC stations that had the story in their running orders across radio or TV inclu
 * BBC Radio Cumbria: [The fate of Ulverston's library](https://www.bbc.co.uk/sounds/play/p0jn7s94)
 * BBC Radio Leeds: [Yorkshire libraries closing is “devastating”](https://www.bbc.co.uk/sounds/play/p0jn8hlk)
 * BBC Radio Norfolk: [Why are Norfolk libraries bucking the trend?](https://www.bbc.co.uk/sounds/play/p0jn7w3c)
+* BBC Shropshire: [Library 'thriving' since town council take over](https://www.bbc.co.uk/news/articles/cevj7lnzjmxo)
 * BBC Radio Solent: [Eleven Hampshire libraries saved by volunteers](https://bbc.co.uk/sounds/play/p0jn8bn2)
   * Alun Newman: [Library Cuts](https://www.bbc.co.uk/sounds/play/p0jjck6x)
 * BBC Radio York: [How important are North Yorkshire's libraries?](https://www.bbc.co.uk/sounds/play/p0jn7dhz); X: [1,000 libraries have closed or reduced their hours since 2016](https://x.com/BBCYork/status/1830651158852943962)
