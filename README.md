@@ -42,6 +42,7 @@ BBC stations that had the story in their running orders across radio or TV inclu
 
 * BBC 5 Live Breakfast covered the story in its bulletins, spoke to [author Michael Rosen on why libraries must be saved](https://www.bbc.co.uk/programmes/p0jn801k) and did a two-way with the Shared Data Unit's Paul Lynch, which was also used on 5 Live and Radios 2, 3, 6 Music and BBC Sounds
 * BBC Breakfast covered the story in a range of ways, including an outside broadcast, VT and [interview with Michael Rosen which was published on X](https://x.com/BBCBreakfast/status/1830872837529235758). A package from BBC Breakfast was also used by the BBC News Channel
+* BBC Sounds: ['When you take away libraries you are hurting people'](https://www.bbc.co.uk/sounds/play/curation:m001bm45/p0jn45b3)
 * BBC Birmingham: [Books changed my life, says former homeless man](https://www.bbc.co.uk/news/articles/c628180g3kxo)
 * BBC Cornwall: [Cornwall's libraries 'bucking UK trend' - council](https://www.bbc.co.uk/news/articles/c4geylnvnvxo)
 * BBC Coventry & Warwickshire: [Closing libraries is short-sighted, volunteers say](https://www.bbc.co.uk/news/articles/cx2g1221d74o)
