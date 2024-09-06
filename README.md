@@ -58,6 +58,8 @@ BBC stations that had the story in their running orders across radio or TV inclu
   * Alun Newman: [Library Cuts](https://www.bbc.co.uk/sounds/play/p0jjck6x)
 * BBC Radio York: [How important are North Yorkshire's libraries?](https://www.bbc.co.uk/sounds/play/p0jn7dhz); X: [1,000 libraries have closed or reduced their hours since 2016](https://x.com/BBCYork/status/1830651158852943962)
 * BBC South Yorkshire: [Libraries at 'heart of community' a decade after cuts](https://www.bbc.co.uk/news/articles/cm2n0zeg9kvo)
+* Andover Advertiser: [New data shows loss of almost 25 percent of Hampshire libraries](https://www.andoveradvertiser.co.uk/news/24563439.new-data-shows-loss-almost-25-percent-hampshire-libraries/)
+* Basingstoke Gazette: [Data shows 25 per cent of Hampshire libraries have closed](https://www.basingstokegazette.co.uk/news/24563411.data-shows-25-per-cent-hampshire-libraries-closed/)
 * Doncaster Free Press: [Doncaster among few areas nationwide with more council-run libraries than 2016](https://www.doncasterfreepress.co.uk/news/politics/council/doncaster-among-few-areas-nationwide-with-more-council-run-libraries-than-2016-4768433)
 * The Guardian: [More than 180 UK public libraries closed or handed to volunteers since 2016, data shows](https://www.theguardian.com/books/article/2024/sep/03/more-than-180-uk-public-libraries-closed-or-handed-to-volunteers-since-2016)
   * [Jack Reacher would not exist without Birmingham’s libraries, says writer](https://www.theguardian.com/books/article/2024/sep/03/jack-reacher-writer-lee-child-childhood-birmingham-libraries)
