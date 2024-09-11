@@ -76,6 +76,7 @@ BBC stations that had the story in their running orders across radio or TV inclu
 * LocalGov: [Public libraries in ‘crisis’ amid cuts](https://www.localgov.co.uk/Public-libraries-in-crisis-amid-cuts/61048)
 * MyLondon: [The 'horrifying' cuts to library services with almost 200 libraries closed since 2016](https://www.mylondon.news/news/uk-world-news/horrifying-cuts-library-services-almost-29853045)
 * SomersetLive: [Library closures mapped as Somerset sees mixed picture](https://www.somersetlive.co.uk/news/somerset-news/library-closures-mapped-somerset-sees-9526621)
+* Warrington Midweek (in print): Number of Warrington libraries have increased since 2016
 
 ## Related repos
 
