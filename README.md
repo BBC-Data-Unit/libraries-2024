@@ -75,7 +75,9 @@ BBC stations that had the story in their running orders across radio or TV inclu
 * KentLive: [The impact of the 'public library crisis' on Kent as UK-wide decimation continues](https://www.kentlive.news/news/kent-news/impact-public-library-crisis-kent-9526288)
 * LocalGov: [Public libraries in ‘crisis’ amid cuts](https://www.localgov.co.uk/Public-libraries-in-crisis-amid-cuts/61048)
 * MyLondon: [The 'horrifying' cuts to library services with almost 200 libraries closed since 2016](https://www.mylondon.news/news/uk-world-news/horrifying-cuts-library-services-almost-29853045)
+* Romford Recorder: [Clashes over plan to close four Havering libraries in debate](https://www.romfordrecorder.co.uk/news/24567419.clashes-plan-close-four-havering-libraries-debate/)
 * SomersetLive: [Library closures mapped as Somerset sees mixed picture](https://www.somersetlive.co.uk/news/somerset-news/library-closures-mapped-somerset-sees-9526621)
+* Warrington Guardian: [Number of Warrington libraries have increased since 2016](https://www.warringtonguardian.co.uk/news/24575739.number-warrington-libraries-increased-since-2016/)
 * Warrington Midweek (in print): Number of Warrington libraries have increased since 2016
 
 ## Related repos
