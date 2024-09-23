@@ -77,6 +77,8 @@ BBC stations that had the story in their running orders across radio or TV inclu
 * MyLondon: [The 'horrifying' cuts to library services with almost 200 libraries closed since 2016](https://www.mylondon.news/news/uk-world-news/horrifying-cuts-library-services-almost-29853045)
 * Romford Recorder: [Clashes over plan to close four Havering libraries in debate](https://www.romfordrecorder.co.uk/news/24567419.clashes-plan-close-four-havering-libraries-debate/)
 * SomersetLive: [Library closures mapped as Somerset sees mixed picture](https://www.somersetlive.co.uk/news/somerset-news/library-closures-mapped-somerset-sees-9526621)
+* Sussex Bylines: [Local libraries – so much more than just books](https://sussexbylines.co.uk/community/local-libraries-so-much-more-than-just-books/)
+* St Helens Star: [Libraries that were cut by St Helens remain closed](https://www.sthelensstar.co.uk/news/24586220.libraries-cut-st-helens-remain-closed/)
 * Warrington Guardian: [Number of Warrington libraries have increased since 2016](https://www.warringtonguardian.co.uk/news/24575739.number-warrington-libraries-increased-since-2016/)
 * Warrington Midweek (in print): Number of Warrington libraries have increased since 2016
 
