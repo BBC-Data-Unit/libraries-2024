@@ -79,6 +79,7 @@ BBC stations that had the story in their running orders across radio or TV inclu
 * SomersetLive: [Library closures mapped as Somerset sees mixed picture](https://www.somersetlive.co.uk/news/somerset-news/library-closures-mapped-somerset-sees-9526621)
 * Sussex Bylines: [Local libraries – so much more than just books](https://sussexbylines.co.uk/community/local-libraries-so-much-more-than-just-books/)
 * St Helens Star: [Libraries that were cut by St Helens remain closed](https://www.sthelensstar.co.uk/news/24586220.libraries-cut-st-helens-remain-closed/)
+* The Telegraph: [The crisis facing Britain’s brilliant librarians](https://www.telegraph.co.uk/books/young-adult-books/national-libraries-week-crisis-in-british-libraries/)
 * Warrington Guardian: [Number of Warrington libraries have increased since 2016](https://www.warringtonguardian.co.uk/news/24575739.number-warrington-libraries-increased-since-2016/)
 * Warrington Midweek (in print): Number of Warrington libraries have increased since 2016
 
